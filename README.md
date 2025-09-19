@@ -1,6 +1,6 @@
 # 👥 Customer Segmentation with PySpark & Streamlit
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://https://customersegmentation-pyspark.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customersegmentation-pyspark.streamlit.app)
 
 An end-to-end data science project that performs customer segmentation on a large retail dataset. This project leverages **PySpark** for scalable data processing and feature engineering, **Gaussian Mixture Models (GMM)** for clustering, and **Streamlit** for an interactive web-based dashboard to visualize the results.
 
